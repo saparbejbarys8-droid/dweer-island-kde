@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+build/
+test-output/
+*.log
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.mp4
+*.zip
+*.tar.gz

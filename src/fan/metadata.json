@@ -1,0 +1,16 @@
+{
+  "KPlugin": {
+    "Id": "local.reference.downloadfan",
+    "Name": "Downloads Fan",
+    "Name[ru]": "Загрузки веером",
+    "Description": "Recent downloads in a curved fan above the dock",
+    "Version": "1.0",
+    "License": "GPL-3.0-or-later",
+    "Authors": [{"Name": "dweer"}],
+    "Category": "File System",
+    "Icon": "folder-downloads"
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "X-Plasma-FormFactors": ["horizontal", "vertical", "planar"]
+}
